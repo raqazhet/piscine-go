@@ -1,0 +1,2 @@
+ls -mpc | sed 's/ //g'
+
